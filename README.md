@@ -1,4 +1,4 @@
 # hello-world
-Of course .... typical first project
+Of course ....  standard first project
 Voila an amazing update ---
 Hello Peeps
